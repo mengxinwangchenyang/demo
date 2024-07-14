@@ -1,0 +1,18 @@
+{
+    "model_info":{
+        "provider":"gpt",
+        "name":"gpt-3.5-turbo"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "hk-843b3x10000378184fcd26905bc35a56545177916ade3f03"
+        ],
+        "api_key_use": 0
+    },
+    "params":{
+        "temperature":0.1,
+        "seed":100,
+        "gpus":[],
+        "max_output_tokens":150
+    }
+}
